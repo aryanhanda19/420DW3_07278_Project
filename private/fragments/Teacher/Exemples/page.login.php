@@ -24,7 +24,7 @@ if (LoginService::isAuthorLoggedIn()) {
 <html lang="en">
 <head>
     <title>Example Page</title>
-    <link rel="stylesheet" href="<?= WEB_CSS_DIR . "bootstrap.min.css" ?>">
+    <link rel="stylesheet" href="<?= WEB_CSS_DIR . "bootstrap1.min.css" ?>">
     <link rel="stylesheet" href="<?= WEB_CSS_DIR . "teacher.standard.css" ?>">
     <script type="text/javascript">
         
